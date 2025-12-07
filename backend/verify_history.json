@@ -1,0 +1,12 @@
+﻿{
+    "ok":  true,
+    "history":  [
+                    {
+                        "type":  "wallet",
+                        "address":  "0x7d20dcdb2b5d7d9b9f931d87f7a7d4567e9c9c4883987f6b8c9d8a7c6f5e4d3a",
+                        "riskScore":  0,
+                        "riskLevel":  "LOW",
+                        "timestamp":  1765087307958
+                    }
+                ]
+}

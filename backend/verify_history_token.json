@@ -1,0 +1,12 @@
+﻿{
+    "ok":  true,
+    "history":  [
+                    {
+                        "type":  "token",
+                        "address":  "0x2::sui::SUI",
+                        "riskScore":  20,
+                        "riskLevel":  "MEDIUM",
+                        "timestamp":  1765088159440
+                    }
+                ]
+}

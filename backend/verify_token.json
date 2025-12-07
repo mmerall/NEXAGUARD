@@ -1,0 +1,19 @@
+﻿{
+    "ok":  true,
+    "analysis":  {
+                     "name":  "Sui",
+                     "symbol":  "SUI",
+                     "decimals":  9,
+                     "supply":  "10000000000000000000",
+                     "description":  "No description available",
+                     "risks":  {
+                                   "canMint":  false,
+                                   "canFreeze":  false,
+                                   "canBurn":  false,
+                                   "isUpgradeable":  true
+                               },
+                     "score":  20,
+                     "riskLevel":  "MEDIUM",
+                     "aiInsight":  "SAFE: Smart contract analysis shows stable parameters. No critical privilege escalations (mint/freeze) were detected in the published modules."
+                 }
+}
